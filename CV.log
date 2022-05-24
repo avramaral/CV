@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.23)  19 MAY 2022 10:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.23)  24 MAY 2022 12:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -536,13 +536,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (0.56148pt too wide) in paragraph at lines 97--98
+Overfull \hbox (0.56148pt too wide) in paragraph at lines 99--100
 []\OT1/cmr/m/n/10.95 13$[][]$ Sum-mer In-sti-tute in Statis-tics and Mod-el-ing
  in In-fec-tious Dis-eases (SIS-MID). 07/2021.
  []
 
 
-Overfull \hbox (2.7717pt too wide) in paragraph at lines 104--105
+Overfull \hbox (2.7717pt too wide) in paragraph at lines 106--107
 []\OT1/cmr/m/n/10.95 Val^^Rencia In-ter-na-tional Bayesian Anal-y-sis Sum-mer S
 chool, 4$[][]$ Edi-tion (VIBASS4). 07/2021. 
  []
@@ -562,13 +562,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12534 strings out of 478994
- 182143 string characters out of 5858184
+ 12535 strings out of 478994
+ 182150 string characters out of 5858184
  499431 words of memory out of 5000000
  29820 multiletter control sequences out of 15000+600000
  410120 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,11n,88p,411b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,11n,88p,411b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometw
 o.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAw
 esome.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cm
@@ -578,10 +578,10 @@ x12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on CV.pdf (2 pages, 114985 bytes).
+Output written on CV.pdf (2 pages, 117118 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 20 named destinations out of 1000 (max. 500000)
+ 89 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 21 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
