@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.26)  25 JUL 2022 17:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.8.26)  11 AUG 2022 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -605,11 +605,6 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (0.14497pt too wide) in paragraph at lines 88--89
-\T1/lmr/m/it/10.95 for In-fec-tious Dis-eases\T1/lmr/m/n/10.95 . The slides can
- be found in []https://github.com/avramaral/GE2022[]. 
- []
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -621,13 +616,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
-Overfull \hbox (0.56087pt too wide) in paragraph at lines 100--101
+Overfull \hbox (0.14497pt too wide) in paragraph at lines 80--81
+\T1/lmr/m/it/10.95 for In-fec-tious Dis-eases\T1/lmr/m/n/10.95 . The slides can
+ be found in []https://github.com/avramaral/GE2022[]. 
+ []
+
+
+Overfull \hbox (2.55177pt too wide) in paragraph at lines 96--97
+[]\T1/lmr/bx/n/10.95 Graduate Fel-low-ship\T1/lmr/m/n/10.95 , by King Ab-dul-la
+h Uni-ver-sity of Sci-ence and Tech-nol-ogy (KAUST).
+ []
+
+
+Overfull \hbox (0.56087pt too wide) in paragraph at lines 113--114
 []\T1/lmr/m/n/10.95 13$[][]$ Sum-mer In-sti-tute in Statis-tics and Mod-el-ing 
 in In-fec-tious Dis-eases (SIS-MID). 07/2021.
  []
 
 
-Overfull \hbox (2.76927pt too wide) in paragraph at lines 107--108
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[2]
+Overfull \hbox (2.76927pt too wide) in paragraph at lines 120--121
 []\T1/lmr/m/n/10.95 València In-ter-na-tional Bayesian Anal-y-sis Sum-mer Schoo
 l, 4$[][]$ Edi-tion (VIBASS4). 07/2021. 
  []
@@ -642,18 +657,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[2] (./CV.aux)
+[3] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12880 strings out of 478994
- 187047 string characters out of 5858184
+ 12885 strings out of 478994
+ 187081 string characters out of 5858184
  499628 words of memory out of 5000000
  30132 multiletter control sequences out of 15000+600000
  445620 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 81i,11n,88p,459b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 81i,11n,88p,459b,606s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/
 texlive/2021/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</usr/lo
 cal/texlive/2021/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></us
@@ -664,10 +679,10 @@ xlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021
 1/public/lm/lmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/
 lmri10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 >
-Output written on CV.pdf (2 pages, 196434 bytes).
+Output written on CV.pdf (3 pages, 200669 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
- 23 named destinations out of 1000 (max. 500000)
+ 108 PDF objects out of 1000 (max. 8388607)
+ 94 compressed objects within 1 object stream
+ 28 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
