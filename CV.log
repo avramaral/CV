@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  13 MAY 2024 09:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  28 MAY 2024 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,13 +629,13 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 /local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.
-enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-45.
+47.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [2]
+)
 Overfull \hbox (1.59483pt too wide) in paragraph at lines 163--164
 []\T1/lmr/bx/n/10 Undergraduate Schol-ar-ship\T1/lmr/m/n/10 , by Brazil's ``Sci
 -ence with-out Bor-ders'' Pro-gram. From 07/2016 to 12/2017. 
@@ -655,7 +655,7 @@ Here is how much of TeX's memory you used:
  34239 multiletter control sequences out of 15000+600000
  554854 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,545b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,531b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/te
@@ -665,7 +665,7 @@ fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on CV.pdf (3 pages, 254047 bytes).
+Output written on CV.pdf (3 pages, 253964 bytes).
 PDF statistics:
  207 PDF objects out of 1000 (max. 8388607)
  179 compressed objects within 2 object streams
