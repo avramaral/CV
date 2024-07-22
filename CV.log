@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  3 JUN 2024 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  22 JUL 2024 05:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -631,12 +631,12 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.
 enc}{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}] [2]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-50.
+51.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (1.59483pt too wide) in paragraph at lines 166--167
+Overfull \hbox (1.59483pt too wide) in paragraph at lines 167--168
 []\T1/lmr/bx/n/10 Undergraduate Schol-ar-ship\T1/lmr/m/n/10 , by Brazil's ``Sci
 -ence with-out Bor-ders'' Pro-gram. From 07/2016 to 12/2017. 
  []
@@ -649,8 +649,8 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14082 strings out of 476025
- 221242 string characters out of 5790018
+ 14080 strings out of 476025
+ 221228 string characters out of 5790018
  1871388 words of memory out of 5000000
  34239 multiletter control sequences out of 15000+600000
  554854 words of font info for 62 fonts, out of 8000000 for 9000
@@ -665,10 +665,10 @@ fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
 ></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
-Output written on CV.pdf (3 pages, 254573 bytes).
+Output written on CV.pdf (3 pages, 254753 bytes).
 PDF statistics:
- 212 PDF objects out of 1000 (max. 8388607)
- 184 compressed objects within 2 object streams
- 53 named destinations out of 1000 (max. 500000)
+ 210 PDF objects out of 1000 (max. 8388607)
+ 182 compressed objects within 2 object streams
+ 51 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
