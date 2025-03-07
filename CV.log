@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  11 FEB 2025 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.5)  7 MAR 2025 17:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -629,14 +629,26 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 /local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
 {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.
-enc}] [2]
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
-59.
+enc}]
+Overfull \hbox (4.53465pt too wide) in paragraph at lines 102--103
+[]\T1/lmr/bx/n/10 Lecturer \T1/lmr/m/n/10 in ``Sta-tis-ti-cal Mod-elling II'' (
+MATH3091), Uni-ver-sity of Southamp-ton, 2$[][]$ semester (2024/2025).
+ []
 
-(/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+
+Overfull \hbox (3.4503pt too wide) in paragraph at lines 102--103
+\T1/lmr/m/n/10 Co-taught with []Dr.  He-len Og-den[].  The  ma-te-rial is avail
+-able on [][]$\T1/lmtt/m/n/10 https : / / avramaral . github . io / MATH3091/$[
+][]\T1/lmr/m/n/10 . 
+ []
+
+[2]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+62.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Overfull \hbox (1.59483pt too wide) in paragraph at lines 174--175
+Overfull \hbox (1.59483pt too wide) in paragraph at lines 177--178
 []\T1/lmr/bx/n/10 Undergraduate Schol-ar-ship\T1/lmr/m/n/10 , by Brazil's ``Sci
 -ence with-out Bor-ders'' Pro-gram. From 07/2016 to 12/2017. 
  []
@@ -649,13 +661,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 14084 strings out of 476025
- 221233 string characters out of 5790018
+ 14086 strings out of 476025
+ 221247 string characters out of 5790018
  1871388 words of memory out of 5000000
  34238 multiletter control sequences out of 15000+600000
  554854 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,76p,531b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,76p,550b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/te
@@ -665,10 +677,10 @@ fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
 public/lm/lmri10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/
 lmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt9.pfb>
 
-Output written on CV.pdf (4 pages, 242961 bytes).
+Output written on CV.pdf (4 pages, 244069 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 227 PDF objects out of 1000 (max. 8388607)
+ 200 compressed objects within 2 object streams
+ 59 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
